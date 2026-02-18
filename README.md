@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 Simple Payment Form
 
+
 A simple payment form built with React, styled with Tailwind CSS, and bundled using Vite. The project uses Bun as the development server and package manager for fast and modern workflows.
 
 Features
@@ -12,7 +13,7 @@ Atomic styling with Tailwind CSS
 Easy to extend with new form fields or payment methods
 
 Fast development server with Bun + Vite
-
+git
 Technologies Used
 
 React – UI library for building components
@@ -41,4 +42,5 @@ Open http://localhost:5173
 License
 
 This project is licensed under the MIT License.
+
 
